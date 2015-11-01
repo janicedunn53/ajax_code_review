@@ -1,63 +1,76 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/janicedunn/Desktop/swap_project/spec/features/user/sign_up_user_pages_spec.rb": [
+      "/Users/janicedunn/Desktop/ajax_code_review/spec/features/listing/add_new_listing_pages_spec.rb": [
         1,
         null,
-        1,
-        1,
-        2,
-        null,
-        null,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1,
         1,
         1,
         1,
         null,
         null,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        null,
+        null,
+        null
+      ],
+      "/Users/janicedunn/Desktop/ajax_code_review/spec/rails_helper.rb": [
+        1,
+        1,
+        null,
+        1,
+        1,
+        1,
+        1,
+        null,
+        1,
+        1,
+        null,
+        1,
+        1,
+        null,
+        1,
+        null,
+        1,
+        1,
+        null,
+        1,
+        1,
+        null,
+        null,
+        1,
+        9,
+        9,
+        null,
+        null,
+        null,
+        1,
+        null,
+        null,
+        1,
         1,
         1,
         1,
         null,
         null
       ],
-      "/Users/janicedunn/Desktop/swap_project/spec/rails_helper.rb": [
-        1,
-        1,
-        null,
-        1,
-        1,
-        1,
-        1,
-        null,
-        1,
-        null,
-        1,
-        1,
-        1,
-        1,
-        null,
-        null,
-        1,
-        1,
-        1,
-        1,
-        null,
-        null
-      ],
-      "/Users/janicedunn/Desktop/swap_project/config/environment.rb": [
+      "/Users/janicedunn/Desktop/ajax_code_review/config/environment.rb": [
         null,
         1,
         null,
         null,
         1
       ],
-      "/Users/janicedunn/Desktop/swap_project/config/application.rb": [
+      "/Users/janicedunn/Desktop/ajax_code_review/config/application.rb": [
         1,
         null,
         1,
@@ -94,12 +107,12 @@
         null,
         null
       ],
-      "/Users/janicedunn/Desktop/swap_project/config/boot.rb": [
+      "/Users/janicedunn/Desktop/ajax_code_review/config/boot.rb": [
         1,
         null,
         1
       ],
-      "/Users/janicedunn/Desktop/swap_project/config/environments/test.rb": [
+      "/Users/janicedunn/Desktop/ajax_code_review/config/environments/test.rb": [
         1,
         null,
         null,
@@ -143,7 +156,7 @@
         null,
         null
       ],
-      "/Users/janicedunn/Desktop/swap_project/config/initializers/assets.rb": [
+      "/Users/janicedunn/Desktop/ajax_code_review/config/initializers/assets.rb": [
         null,
         null,
         null,
@@ -156,7 +169,7 @@
         null,
         null
       ],
-      "/Users/janicedunn/Desktop/swap_project/config/initializers/backtrace_silencers.rb": [
+      "/Users/janicedunn/Desktop/ajax_code_review/config/initializers/backtrace_silencers.rb": [
         null,
         null,
         null,
@@ -165,12 +178,12 @@
         null,
         null
       ],
-      "/Users/janicedunn/Desktop/swap_project/config/initializers/cookies_serializer.rb": [
+      "/Users/janicedunn/Desktop/ajax_code_review/config/initializers/cookies_serializer.rb": [
         null,
         null,
         1
       ],
-      "/Users/janicedunn/Desktop/swap_project/config/initializers/devise.rb": [
+      "/Users/janicedunn/Desktop/ajax_code_review/config/initializers/devise.rb": [
         null,
         null,
         1,
@@ -434,13 +447,13 @@
         null,
         null
       ],
-      "/Users/janicedunn/Desktop/swap_project/config/initializers/filter_parameter_logging.rb": [
+      "/Users/janicedunn/Desktop/ajax_code_review/config/initializers/filter_parameter_logging.rb": [
         null,
         null,
         null,
         1
       ],
-      "/Users/janicedunn/Desktop/swap_project/config/initializers/inflections.rb": [
+      "/Users/janicedunn/Desktop/ajax_code_review/config/initializers/inflections.rb": [
         null,
         null,
         null,
@@ -458,18 +471,18 @@
         null,
         null
       ],
-      "/Users/janicedunn/Desktop/swap_project/config/initializers/mime_types.rb": [
+      "/Users/janicedunn/Desktop/ajax_code_review/config/initializers/mime_types.rb": [
         null,
         null,
         null,
         null
       ],
-      "/Users/janicedunn/Desktop/swap_project/config/initializers/session_store.rb": [
+      "/Users/janicedunn/Desktop/ajax_code_review/config/initializers/session_store.rb": [
         null,
         null,
         1
       ],
-      "/Users/janicedunn/Desktop/swap_project/config/initializers/wrap_parameters.rb": [
+      "/Users/janicedunn/Desktop/ajax_code_review/config/initializers/wrap_parameters.rb": [
         null,
         null,
         null,
@@ -485,7 +498,7 @@
         null,
         null
       ],
-      "/Users/janicedunn/Desktop/swap_project/config/routes.rb": [
+      "/Users/janicedunn/Desktop/ajax_code_review/config/routes.rb": [
         1,
         1,
         null,
@@ -500,7 +513,7 @@
         1,
         null
       ],
-      "/Users/janicedunn/Desktop/swap_project/app/models/user.rb": [
+      "/Users/janicedunn/Desktop/ajax_code_review/app/models/user.rb": [
         1,
         null,
         null,
@@ -515,7 +528,7 @@
         1,
         null
       ],
-      "/Users/janicedunn/Desktop/swap_project/app/controllers/application_controller.rb": [
+      "/Users/janicedunn/Desktop/ajax_code_review/app/controllers/application_controller.rb": [
         1,
         null,
         null,
@@ -531,47 +544,35 @@
         null,
         null
       ],
-      "/Users/janicedunn/Desktop/swap_project/app/helpers/application_helper.rb": [
+      "/Users/janicedunn/Desktop/ajax_code_review/app/helpers/application_helper.rb": [
         1,
         null
       ],
-      "/Users/janicedunn/Desktop/swap_project/app/controllers/listings_controller.rb": [
+      "/Users/janicedunn/Desktop/ajax_code_review/app/controllers/listings_controller.rb": [
         1,
-        null,
-        null,
         1,
-        0,
-        null,
-        null,
-        null,
-        null,
-        null,
         null,
         1,
         0,
         null,
         null,
-        1,
-        0,
         null,
-        0,
-        0,
-        0,
-        null,
-        0,
         null,
         null,
         null,
         1,
-        0,
-        0,
+        1,
         null,
         null,
         1,
-        0,
-        0,
-        0,
-        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        null,
         null,
         0,
         null,
@@ -580,79 +581,31 @@
         1,
         0,
         0,
+        null,
+        null,
+        1,
+        0,
+        0,
+        0,
+        0,
+        null,
+        0,
+        null,
+        null,
+        null,
+        1,
+        0,
+        0,
         0,
         null,
         null,
         1,
         1,
-        0,
+        1,
         null,
         null
       ],
-      "/Users/janicedunn/Desktop/swap_project/app/controllers/neighborhoods/listings_controller.rb": [
-        1,
-        1,
-        null,
-        1,
-        null,
-        1,
-        0,
-        null,
-        null
-      ],
-      "/Users/janicedunn/Desktop/swap_project/app/controllers/neighborhoods_controller.rb": [
-        1,
-        1,
-        0,
-        null,
-        null,
-        1,
-        0,
-        0,
-        0,
-        0,
-        null,
-        null,
-        1,
-        0,
-        null,
-        null,
-        1,
-        0,
-        0,
-        0,
-        0,
-        null,
-        0,
-        null,
-        null,
-        null,
-        1,
-        0,
-        null,
-        null,
-        1,
-        0,
-        0,
-        0,
-        null,
-        0,
-        null,
-        null,
-        null,
-        1,
-        0,
-        0,
-        0,
-        null,
-        null,
-        1,
-        1,
-        0,
-        null,
-        null
-      ],
-      "/Users/janicedunn/Desktop/swap_project/app/controllers/users/listings_controller.rb": [
+      "/Users/janicedunn/Desktop/ajax_code_review/app/controllers/neighborhoods/listings_controller.rb": [
         1,
         1,
         null,
@@ -663,17 +616,50 @@
         null,
         null
       ],
-      "/Users/janicedunn/Desktop/swap_project/app/controllers/users_controller.rb": [
+      "/Users/janicedunn/Desktop/ajax_code_review/app/controllers/neighborhoods_controller.rb": [
         1,
         1,
-        1,
+        0,
         null,
         null,
         1,
+        0,
+        0,
+        0,
+        0,
+        null,
+        null,
         1,
+        0,
+        null,
+        null,
         1,
+        0,
+        0,
+        0,
+        0,
+        null,
+        0,
+        null,
+        null,
+        null,
         1,
+        0,
+        null,
+        null,
         1,
+        0,
+        0,
+        0,
+        null,
+        0,
+        null,
+        null,
+        null,
+        1,
+        0,
+        0,
+        0,
         null,
         null,
         1,
@@ -682,7 +668,38 @@
         null,
         null
       ],
-      "/Users/janicedunn/Desktop/swap_project/app/models/listing.rb": [
+      "/Users/janicedunn/Desktop/ajax_code_review/app/controllers/users/listings_controller.rb": [
+        1,
+        1,
+        null,
+        1,
+        null,
+        1,
+        2,
+        null,
+        null
+      ],
+      "/Users/janicedunn/Desktop/ajax_code_review/app/controllers/users_controller.rb": [
+        1,
+        1,
+        2,
+        null,
+        null,
+        1,
+        2,
+        2,
+        2,
+        2,
+        null,
+        null,
+        1,
+        1,
+        0,
+        null,
+        null
+      ],
+      "/Users/janicedunn/Desktop/ajax_code_review/app/models/listing.rb": [
+        1,
         1,
         1,
         1,
@@ -692,7 +709,7 @@
         1,
         null
       ],
-      "/Users/janicedunn/Desktop/swap_project/app/models/neighborhood.rb": [
+      "/Users/janicedunn/Desktop/ajax_code_review/app/models/neighborhood.rb": [
         1,
         1,
         null,
@@ -700,7 +717,7 @@
         1,
         null
       ],
-      "/Users/janicedunn/Desktop/swap_project/spec/factories.rb": [
+      "/Users/janicedunn/Desktop/ajax_code_review/spec/factories.rb": [
         1,
         1,
         1,
@@ -715,7 +732,32 @@
         null,
         null
       ],
-      "/Users/janicedunn/Desktop/swap_project/spec/models/listing_spec.rb": [
+      "/Users/janicedunn/Desktop/ajax_code_review/spec/features/user/sign_up_user_pages_spec.rb": [
+        1,
+        null,
+        1,
+        1,
+        2,
+        null,
+        null,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        null,
+        null,
+        1,
+        1,
+        1,
+        null,
+        null
+      ],
+      "/Users/janicedunn/Desktop/ajax_code_review/spec/models/listing_spec.rb": [
         1,
         null,
         1,
@@ -724,7 +766,7 @@
         2,
         null
       ],
-      "/Users/janicedunn/Desktop/swap_project/spec/models/neighborhood_spec.rb": [
+      "/Users/janicedunn/Desktop/ajax_code_review/spec/models/neighborhood_spec.rb": [
         1,
         null,
         1,
@@ -732,7 +774,7 @@
         2,
         null
       ],
-      "/Users/janicedunn/Desktop/swap_project/spec/models/user_spec.rb": [
+      "/Users/janicedunn/Desktop/ajax_code_review/spec/models/user_spec.rb": [
         1,
         null,
         1,
@@ -740,6 +782,6 @@
         null
       ]
     },
-    "timestamp": 1446220142
+    "timestamp": 1446419542
   }
 }
