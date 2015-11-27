@@ -1,5 +1,6 @@
 <h1><%= @listing.name %></h1>
 <p><%= @listing.description %></p>
+<p><%= @listing.exchange_type %></p>
 <%= image_tag @listing.photo %>
 
 <p><%= link_to "Edit Listing", edit_user_listing_path(@user, @listing) %></p>
