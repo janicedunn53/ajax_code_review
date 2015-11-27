@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20151028211716) do
+ActiveRecord::Schema.define(version: 20151127222406) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -29,6 +29,7 @@ ActiveRecord::Schema.define(version: 20151028211716) do
     t.datetime "photo_updated_at"
     t.integer  "listingable_id"
     t.string   "listingable_type"
+    t.string   "exchange_type"
   end
 
   add_index "listings", ["listingable_id", "listingable_type"], name: "index_listings_on_listingable_id_and_listingable_type", using: :btree

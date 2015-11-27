@@ -3,6 +3,7 @@
     <li>
       <h4><%= listing.name %></h4>
       <%= listing.description%>
+      <p>I would like to <strong><%= listing.exchange_type %></strong> this item.</p>
       <%= image_tag listing.photo %>
     </li>
   <% end %>
